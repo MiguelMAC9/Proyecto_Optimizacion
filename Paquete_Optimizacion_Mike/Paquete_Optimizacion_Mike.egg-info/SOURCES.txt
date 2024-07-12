@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+Paquete_Optimizacion_Mike.egg-info/PKG-INFO
+Paquete_Optimizacion_Mike.egg-info/SOURCES.txt
+Paquete_Optimizacion_Mike.egg-info/dependency_links.txt
+Paquete_Optimizacion_Mike.egg-info/top_level.txt
+scr/Codigos/Funciones_prueba.py
+scr/Codigos/Multivariadas.py
+scr/Codigos/Univariable.py
+scr/Codigos/__init__.py
